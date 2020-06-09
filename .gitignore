@@ -1,5 +1,10 @@
 .DS_Store
 submit*
 .ipynb_checkpoints/
+<<<<<<< HEAD
+=======
+lightning_logs/
+model/
+>>>>>>> 4b45839cf8913b30912c8ff2535efc99bfaccbaf
 thumbnail.zip
 thumbnail/
